@@ -6,7 +6,7 @@ Here on GitHub, I’ll be sharing my journey, experiments, and projects as I kee
 
 ---
 
-> *"Don’t ever give up. Even if it’s painful, even if it’s agonizing, don’t lose."* — **Tanjiro Kamado**  
+> *Losing everything to win and risking losing everything to win are completely different things.*  
 
 ---
 
@@ -17,5 +17,5 @@ Here on GitHub, I’ll be sharing my journey, experiments, and projects as I kee
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cassim-b27453381/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassimispunk/)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthur-cassim-b27453381/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassimispunk/)  
 
