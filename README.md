@@ -17,5 +17,4 @@ Here on GitHub, I’ll be sharing my journey, experiments, and projects as I kee
 
 # 🌐 Socials:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthur-cassim-b27453381/)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cassimispunk/)  [![Gmail](https://skillicons.dev/icons?i=gmail)](arthurcassim.dev@gmail.com)
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthur-cassim-b27453381/)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cassimispunk/)
