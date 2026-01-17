@@ -12,10 +12,10 @@ Here on GitHub, I’ll be sharing my journey, experiments, and projects as I kee
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,py,r,dart,flutter,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,react,py,sqlite,r,dart,flutter,html,css)](https://skillicons.dev)
 ---
 
 # 🌐 Socials:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthur-cassim-b27453381/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassimispunk/)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthur-cassim-b27453381/)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cassimispunk/)  [![Gmail](https://skillicons.dev/icons?i=gmail)](arthurcassim.dev@gmail.com)
 
