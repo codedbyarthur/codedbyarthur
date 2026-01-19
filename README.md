@@ -8,7 +8,6 @@ Here on GitHub, I’ll be sharing my journey, experiments, and projects as I kee
 > *Losing everything to win and risking losing everything to win are completely different things.*  
 
 ---
-
 # 💻 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,py,r,dart)
