@@ -1,5 +1,4 @@
 # 👋 Hello there  
-
 I'm Arthur — but you can call me **Cassim**!  
 I'm a beginner in the programming world, still gaining experience, but I love learning new things and pushing myself to grow every day.  
 Here on GitHub, I’ll be sharing my journey, experiments, and projects as I keep exploring the world of technology.  
