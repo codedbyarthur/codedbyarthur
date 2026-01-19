@@ -12,7 +12,7 @@ Here on GitHub, I’ll be sharing my journey, experiments, and projects as I kee
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,react,py,sqlite,r,dart,flutter,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,py,r,dart,flutter,react,html,css,mysql,sqlite,dotnet,spring,django)](https://skillicons.dev)
 ---
 
 # 🌐 Socials:
