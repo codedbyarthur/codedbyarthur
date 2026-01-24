@@ -10,13 +10,12 @@ Here on GitHub, I’ll be sharing my journey, experiments, and projects as I kee
 ---
 # 💻 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=cs,java,cpp,py,r,dart)
+![My Skills](https://skillicons.dev/icons?i=cs,java,py,r)
 
-![My Skills](https://skillicons.dev/icons?i=react,html,css,js,ts)
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
-![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django,angular)
+![My Skills](https://skillicons.dev/icons?i=dotnet,spring)
 
-![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)
 ---
 
 # 🌐 Socials:
