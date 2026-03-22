@@ -47,6 +47,3 @@ public class Developer
         }
     }
 }
-# 🌐 Socials:
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthur-cassim-b27453381/)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cassimispunk/)   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me)
