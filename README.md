@@ -19,7 +19,7 @@
 public class Developer
 {
     string role = "Aspiring Software Developer";
-    string[] mainStack = { "C#", ".NET", "SQL", "REST APIs" };
+    string[] mainStack = { "C#", ".NET", "SQL", "Java", "Spring Boot", "REST APIs" };
     string focus = "Backend Development";
     string os = "MacOS";
 
@@ -29,7 +29,7 @@ public class Developer
         {
             try
             {
-                Code("C#", ".NET");
+                Code("C#", ".NET", "Java", "Spring Boot");
                 LearnSomethingNew();
             }
             catch (ProcrastinationException)
