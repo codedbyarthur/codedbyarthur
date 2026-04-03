@@ -1,14 +1,21 @@
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=58a6ff&Border=DD272700&Background=0d1117">
-    <img 
-      alt="codedbyarthur's GitHub Stats" 
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/codedbyarthur?cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=58a6ff&Border=30363d&Background=0d1117"
-      width="500"
-    />
-  </a>
+    <tr>
+      <td style="padding-right: 10px;">
+        <img 
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/codedbyarthur?cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=c9d1d9&Text=c9d1d9&Icon=c9d1d9&Background=0d1117&Border=00000000"
+          height="180"
+        />
+      </td>
+      <td style="padding-left: 10px;">
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedbyarthur&layout=compact&theme=dark&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&hide_border=true"
+          height="180"
+        />
+      </td>
+    </tr>
+
 </div>
 
-  
 ## 💬 About Me
 
 ```csharp
