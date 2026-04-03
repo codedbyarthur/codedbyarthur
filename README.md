@@ -2,7 +2,7 @@
     <tr>
       <td style="padding-right: 10px;">
         <img 
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/codedbyarthur?cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=c9d1d9&Text=c9d1d9&Icon=c9d1d9&Background=0d1117&Border=00000000"
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/codedbyarthur?cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=DD272700&Text=c9d1d9&Icon=c9d1d9&Background=0d1117&Border=00000000"
           height="180"
         />
       </td>
