@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=DD272700&Border=DD272700">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=58a6ff&Border=DD272700&Background=0d1117">
     <img 
       alt="codedbyarthur's GitHub Stats" 
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/codedbyarthur?cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=DD272700&Border=DD272700"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/codedbyarthur?cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=58a6ff&Border=30363d&Background=0d1117"
       width="500"
     />
   </a>
