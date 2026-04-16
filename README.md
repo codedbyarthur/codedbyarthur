@@ -1,52 +1,38 @@
 <div align="center">
-    <tr>
-      <td style="padding-right: 10px;">
-        <img 
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/codedbyarthur?cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=DD272700&Text=c9d1d9&Icon=c9d1d9&Background=0d1117&Border=00000000"
-          height="180"
-        />
-      </td>
-      <td style="padding-left: 10px;">
-        <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedbyarthur&layout=compact&theme=dark&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&hide_border=true"
-          height="180"
-        />
-      </td>
-    </tr>
-
+  <img 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/codedbyarthur?cardType=github&theme=dark&fontFamily=Acme&preferLogin=false&Title=DD272700&Text=c9d1d9&Icon=c9d1d9&Background=0d1117&Border=00000000"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedbyarthur&layout=compact&theme=dark&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&hide_border=true"
+    height="180"
+  />
 </div>
+
+---
 
 ## 💬 About Me
 
-```csharp
-public class Developer
-{
-    string role = "Aspiring Software Developer";
-    string[] mainStack = { "C#", "SQL", "Java", "REST APIs" };
-    string focus = "Backend Development";
-    string os = "MacOS";
+```java
+public class me {
 
-    public void RealisticRoutine()
-    {
-        while (alive)
-        {
-            try
-            {
-                Code("C#", ".NET", "Java", "Spring Boot");
-                LearnSomethingNew();
-            }
-            catch (ProcrastinationException)
-            {
-                DoomScroll();
-            }
+    String role = "Backend developer in progress";
+    String focus = "Java";
 
-            if (bugAppears)
-            {
-                Debug();
-                QuestionLifeChoices();
-            }
-
-            caffeineLevel++;
-        }
+    String about() {
+        return "I've always been into tech, now I'm turning it into something real.";
     }
+
+    String[] doingNow() {
+        return new String[] {
+            "Java + Spring Boot",
+            "REST APIs",
+            "SQL / PostgreSQL"
+        };
+    }
+
+    String goal() {
+        return "Get my first Java Jr role and grow from there.";
+    }
+
 }
